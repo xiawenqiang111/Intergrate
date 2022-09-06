@@ -1,0 +1,6 @@
+<launch>
+    <!-- <node pkg="Fusion" type="Fusion_gtasm" name="Fusion_gtasm" output="screen" /> -->
+    <!-- <node pkg="Fusion" type="Fusion" name="Fusion" output="screen" /> -->
+    <node pkg="Fusion" type="Test" name="Test" output="screen" />
+
+</launch>
